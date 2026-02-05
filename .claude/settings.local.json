@@ -1,0 +1,7 @@
+{
+  "enabledMcpjsonServers": [
+    "shadcn"
+  ],
+  "spinnerTipsEnabled": false,
+  "enableAllProjectMcpServers": true
+}
